@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gokul P R</h1>
-<h3 align="left">I'm a Compute Science and Engineering graduate. I specialize in Python, JavaScript, and Full Stack Development, and I'm always looking to learn more and take on new challenges.</h3>
+<h3 align="left">I'm a Computer Science and Engineering graduate. I specialize in Python, JavaScript, and Full Stack Development, and I'm always looking to learn more and take on new challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokulpr-47&label=Profile%20views&color=0e75b6&style=flat" alt="gokulpr-47" /> </p>
 
