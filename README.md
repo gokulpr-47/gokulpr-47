@@ -77,8 +77,6 @@ Other
     <img src="https://img.shields.io/badge/Git-de4c36?style=for-the-badge&logo=git&logoColor=white" />
   </p>
 </details>
-<br>
-
 <h3>Activities</h3>
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokulpr-47&show_icons=true&locale=en&layout=compact" alt="gokulpr-47" />
