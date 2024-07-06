@@ -80,7 +80,7 @@ Other
 <br>
 
 <h3>Activities</h3>
-<p align="left">
+<p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokulpr-47&show_icons=true&locale=en&layout=compact" alt="gokulpr-47" />
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=gokulpr-47&show_icons=true&locale=en" alt="gokulpr-47" />
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=gokulpr-47&" alt="gokulpr-47" />
