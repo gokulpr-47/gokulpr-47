@@ -4,7 +4,7 @@ Full Stack Engineer focused on building scalable web applications, backend syste
 
 📫 Email: gokulpr47@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/gokul-p-r-744710206  
-📄 Resume: https://black-hestia-35.tiiny.site  
+📄 Resume: https://gokulpr-47.github.io/resume.pdf
 
 ---
 
