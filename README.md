@@ -5,7 +5,7 @@ Full Stack Engineer focused on building scalable web applications, backend syste
 📫 Email: gokulpr47@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/gokul-p-r-744710206  
 📄 Resume: https://gokulpr-47.github.io/resume.pdf
-
+🌐 Portfolio: https://69880a75c34b0c2fbe5387ef--gokulpr47.netlify.app/
 ---
 
 ## 🧑‍💻 Tech Stack
